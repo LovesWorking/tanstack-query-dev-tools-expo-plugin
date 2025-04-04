@@ -10,9 +10,9 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@tanstack/query-devtools": "file:.yalc/@tanstack/query-devtools",
+    "@tanstack/query-devtools": "file:tanstack-query-devtools-5.67.2.tgz",
     "@tanstack/react-query": "^5.66.9",
-    "@tanstack/react-query-devtools": "file:.yalc/@tanstack/react-query-devtools",
+    "@tanstack/react-query-devtools": "file:tanstack-react-query-devtools-5.69.0.tgz",
     "expo": "~52.0.3",
     "expo-status-bar": "~2.0.0",
     "react": "18.3.1",
